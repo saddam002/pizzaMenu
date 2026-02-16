@@ -1,7 +1,10 @@
+import Pizza from "./components/Pizza";
 function App() {
   return (
     <>
-      <h1>Hello from react vite</h1>
+      <Pizza />
+      <Pizza />
+      <Pizza />
     </>
   );
 }
